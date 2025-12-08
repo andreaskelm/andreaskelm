@@ -35,7 +35,7 @@ I've onboarded 20+ PMs and realized I was repeating myself verbatim. Every team 
 
 This is the system I wish I'd had as a junior PM. Battle-tested across Danske Commodities, Vertica, and BESTSELLER. Now version-controlled so it doesn't go stale.
 
----
+--- 
 
 ## 📫 Connect
 
