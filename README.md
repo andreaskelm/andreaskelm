@@ -4,15 +4,15 @@ I build hands-on product management systems that make product teams more effecti
 
 I ship copy-paste frameworks and templates for the messy reality of product work—not the idealized version.
 
-## 🧠 What I'm Building
+## 🏗️ What I'm Building
 
-### [PM Brain-as-code](https://github.com/andreaskelm/pm-brain/)
+### [PM brain-as-code](https://github.com/andreaskelm/pm-brain/) 🧠
 
-Your external product management brain. A living knowledge base that bridges the gap between PM frameworks and actual operational execution.
+Your external product management brain. A living knowledge base that bridges the gap between Product Management frameworks and actual operational execution.
 
-📦 **Ready-to-use:** clone the repo, add your context, start shipping
+📦 **Ready-to-use:** clone the repo → add your context → start shipping
 
-**The problem:** Product teams drown in blog posts, frameworks, and aspirational best practices—but still don't know *how* to run sprint planning on Tuesday morning or write a Product Requirements Document by end-of-day.
+**The problem:** Product teams drown in blog posts, frameworks, and aspirational best practices—but fail to turn it into action and still don't know *how* to run sprint planning on Tuesday morning or write a Product Requirements Document by end-of-day.
 
 **The solution:** Git-versioned, battle-tested guides, templates, and playbooks. Single source of truth = latest commit. Built for everyone from junior PMs to senior leads.
 
@@ -22,7 +22,8 @@ Your external product management brain. A living knowledge base that bridges the
 ├── 📋 Step-by-step operational guides
 ├── 📄 Copy-paste ready templates
 ├── 🚨 Scenario-based playbooks for when shit hits the fan
-└── 🏢 Company context that doesn't go stale
+├── 🏢 Company context that doesn't go stale
+└── 🤖 Prompt libraries for structured thinking with your context
 ```
 
 👉 **[Check it out →](https://github.com/andreaskelm/pm-brain/)**
@@ -31,9 +32,9 @@ Your external product management brain. A living knowledge base that bridges the
 
 ## 💭 Why This Exists
 
-I've onboarded 20+ PMs and realized I was repeating myself verbatim. Every team reinvents the same wheels—how to write a PRD, run discovery, prioritize a backlog. 
+I've onboarded 20+ Product Managers and realized I was repeating myself verbatim. Every team reinvents the same wheels—how to write a PRD, run discovery, prioritize a backlog. 
 
-This is the system I wish I'd had as a junior PM. Battle-tested across Danske Commodities, Vertica, and BESTSELLER. Now version-controlled so it doesn't go stale.
+After a decade in product management, this is the system I wish I'd had as a junior PM. Now version-controlled so it doesn't go stale.
 
 --- 
 
