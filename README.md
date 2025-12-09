@@ -10,11 +10,9 @@ I ship copy-paste frameworks and templates for the messy reality of product work
 
 A living knowledge base that bridges the gap between PM frameworks and actual operational execution. Git-versioned, shareable, ready to use.
 
-📦 **Ready-to-use:** clone the repo → add your context → start shipping
+**Product teams drown in blog posts and frameworks** but don't know *how* to run sprint planning on Tuesday morning or write a PRD by end-of-day. This gives you battle-tested guides, templates, and playbooks. Single source of truth = latest commit. Built for everyone from junior PMs to senior leads.
 
-**The problem:** Product teams drown in blog posts and frameworks but don't know *how* to run sprint planning on Tuesday morning or write a PRD by end-of-day.
-
-**The solution:** Battle-tested guides, templates, and playbooks. Single source of truth = latest commit. Built for everyone from junior PMs to senior leads.
+🚀 **Get started:** clone the repo → add your context → start shipping
 
 ```
 📦 What's Inside
