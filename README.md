@@ -2,14 +2,13 @@
 
 I build hands-on product management systems that make teams more effective. Less theory, more “here’s *exactly* how to do it,” with copy‑paste frameworks and templates for the messy reality of product work.
 
-Product manager & systems thinker. I build PM brain-as-code and data platforms that turn context into decisions.
+I build PM brain-as-code and data platforms that turn context into decisions.
 
-**Status:** Product @ [SEGES Innovation](https://segesinnovation.dk/) — data & AI platform for economic and sustainability insights
+**Status:** Product @ [SEGES](https://segesinnovation.dk/) — Data & AI platform for financial, ESG & sustainability insights
 
 ## 🏗️ What I'm Building
 
 ### 🧠 [PM Brain-as-code](https://github.com/andreaskelm/pm-brain/) 
-
 
 A git-versioned knowledge base that turns PM frameworks into actual operational playbooks. When you need to run sprint planning on Tuesday morning or write a strategy document by end-of-day, it gives you the exact steps, templates, and battle-tested guides—not just theory.
 
