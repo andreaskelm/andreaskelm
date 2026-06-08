@@ -1,10 +1,8 @@
 # Hi, I'm Andreas 👋
 
-I build hands-on product management systems that make teams more effective. Less theory, more “here’s *exactly* how to do it,” with copy‑paste frameworks and templates for the messy reality of product work.
+I build hands-on product management operating systems that make teams more effective. Less theory, more “here’s *exactly* how to do it,” with copy‑paste frameworks and templates for the messy reality of product work.
 
-I build PM brain-as-code and data platforms that turn context into decisions.
-
-**Status:** Product @ [SEGES](https://segesinnovation.dk/) — Data & AI platform for financial, ESG & sustainability insights
+**Status:** Open for new roles - Aarhus/Remote (Europe CET)
 
 ## 🏗️ What I'm Building
 
