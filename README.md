@@ -1,16 +1,20 @@
 # Hi, I'm Andreas 👋
 
-I build hands-on product management operating systems that make teams more effective. Less theory, more “here’s *exactly* how to do it,” with copy‑paste frameworks and templates for the messy reality of product work.
+**Status:** Product manager in Aarhus, Denmark. Open for new roles, Aarhus or remote (Europe).
 
-**Status:** Open for new roles - Aarhus/Remote (Europe CET)
+I build digital products for operations and specialist teams: finance, data platforms, and workflow-heavy environments. Ten years of owning initiatives in complex organizations, from an unclear problem to a working prototype to a scaled result.
+
+- Grew a platform from 1 brand to 14 at BESTSELLER.
+- Cut product time-to-online at Matas from 24 hours to under 2 minutes.
+- Improved build time at Danske Commodities from 8 months to 3-4 weeks.
 
 ## 🏗️ What I'm Building
 
-### 🧠 [PM Brain-as-code](https://github.com/andreaskelm/pm-brain/) 
+### 🧠 [PM Brain](https://github.com/andreaskelm/pm-brain/) 
 
-A git-versioned knowledge base that turns PM frameworks into actual operational playbooks. When you need to run sprint planning on Tuesday morning or write a strategy document by end-of-day, it gives you the exact steps, templates, and battle-tested guides—not just theory.
+PM Brain is an open-source, git-versioned repo of the frameworks, templates, guides, and agents I use for product work. I use it daily, including in a real organization, and it has been through dozens of iterations because real use kept breaking my assumptions.
 
-Built for product teams who want a single source of truth that stays current. Clone it, add your company context, and start shipping.
+Frameworks cover organizations that are ready for them. The part I use most covers the ones that aren't: stakeholder profiles, power maps, and political landscape documents.
 
 ## 📫 Connect
 
